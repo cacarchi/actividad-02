@@ -3,4 +3,7 @@ class claseA {
       this.bar = bar;
       this.foo = foo;
     }
-  }
+}
+class claseX {
+
+}
